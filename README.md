@@ -26,6 +26,6 @@
 ---
 
 ## 📫 Let's Connect!  
-📧 Email: [Link](rajkajare21@gmail.com)  
-🔗 LinkedIn : [Link](https://www.linkedin.com/in/rajkajare/)  
+📧 Email: *rajkajare21@gmail.com*  
+🔗 LinkedIn: [Link](https://www.linkedin.com/in/rajkajare/)  
 
