@@ -5,7 +5,7 @@
 📊 Skilled in **Python (Pandas, NumPy, Seaborn, Matplotlib), MS SQL, Excel, and Power BI**  
 🚀 Hands-on experience in **data cleaning, analysis, and visualization**  
 💻 Also experienced in **Python (with DSA), HTML, CSS, JavaScript, C, C++**  
-💡 Solved problems on **[Code360](https://www.naukri.com/code360/profile/Raj_Kajare)**, strengthening my **DSA skills in Python**  
+  
 
 
 
